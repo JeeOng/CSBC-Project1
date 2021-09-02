@@ -1,4 +1,4 @@
-# Cybersec_Bootcamp
+# Cybersecurity Bootcamp - PROJECT #1 - ELK Stack Server
 
 ## Automated ELK Stack Deployment
 
